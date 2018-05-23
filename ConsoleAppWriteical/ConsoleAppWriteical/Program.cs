@@ -6,6 +6,7 @@ namespace ConsoleAppWriteical
     {
         static void Main(string[] args)
         {
+            // from mac
             string[] lines;
             lines = new string[] {
             "2018/07/01,http://a.com/sample.pdf,Name"
